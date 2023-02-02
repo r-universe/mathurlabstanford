@@ -1,0 +1,14 @@
+[
+  {
+    "package": "metabias",
+    "oncran": true
+  },
+  {
+    "package": "phacking",
+    "oncran": true
+  },
+  {
+    "package": "PublicationBias",
+    "oncran": true
+  }
+]

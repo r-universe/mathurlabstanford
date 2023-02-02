@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "metabias"]
+	path = metabias
+	url = https://github.com/mathurlabstanford/metabias
+	shallow = true
+	registered = true
+[submodule "phacking"]
+	path = phacking
+	url = https://github.com/mathurlabstanford/phacking
+	shallow = true
+	registered = true
+[submodule "PublicationBias"]
+	path = PublicationBias
+	url = https://github.com/mathurlabstanford/publicationbias
+	shallow = true
+	registered = true
