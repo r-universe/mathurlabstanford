@@ -8,6 +8,11 @@
 	url = https://github.com/mathurlabstanford/metabias
 	shallow = true
 	registered = true
+[submodule "multibiasmeta"]
+	path = multibiasmeta
+	url = https://github.com/mathurlabstanford/multibiasmeta
+	shallow = true
+	registered = true
 [submodule "phacking"]
 	path = phacking
 	url = https://github.com/mathurlabstanford/phacking

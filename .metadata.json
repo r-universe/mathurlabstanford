@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "multibiasmeta",
+    "oncran": true
+  },
+  {
     "package": "phacking",
     "oncran": true
   },
