@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PublicationBias"]
+	path = PublicationBias
+	url = https://github.com/mathurlabstanford/publicationbias
 [submodule "metabias"]
 	path = metabias
 	url = https://github.com/mathurlabstanford/metabias
@@ -11,6 +14,3 @@
 [submodule "phacking"]
 	path = phacking
 	url = https://github.com/mathurlabstanford/phacking
-[submodule "PublicationBias"]
-	path = PublicationBias
-	url = https://github.com/mathurlabstanford/publicationbias
