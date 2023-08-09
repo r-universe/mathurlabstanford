@@ -8,9 +8,6 @@
 [submodule "metabias"]
 	path = metabias
 	url = https://github.com/mathurlabstanford/metabias
-[submodule "multibiasmeta"]
-	path = multibiasmeta
-	url = https://github.com/mathurlabstanford/multibiasmeta
 [submodule "phacking"]
 	path = phacking
 	url = https://github.com/mathurlabstanford/phacking
