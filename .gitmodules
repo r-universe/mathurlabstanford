@@ -14,3 +14,6 @@
 [submodule "phacking"]
 	path = phacking
 	url = https://github.com/mathurlabstanford/phacking
+[submodule "truncnormbayes"]
+	path = truncnormbayes
+	url = https://github.com/mathurlabstanford/truncnormbayes
